@@ -61,5 +61,4 @@ provisioner "remote-exec" {
   "sudo cp /tmp/index.html /var/www/html/"
 ]
 }
-
 }
